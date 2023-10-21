@@ -1,4 +1,4 @@
-<<<<<<< HEAD:README.md
+
 # uiwhatsapp
 
 A new Flutter project.
